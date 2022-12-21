@@ -1,12 +1,12 @@
 # Random-Message
 
-##Description
+## Description
 User will get a random quote, weather and if they will follow the quote
 
-##Features
+## Features
 Every time you refresh a new random combination will appear
 
-##How to use
+## How to use
 Just refresh page
 
 ## License: MIT
